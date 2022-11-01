@@ -32,7 +32,7 @@ It will take time but it will be versioned document.
 2. [Example2](#example2)
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
-5. [Architechture diagram](#Architechture diagram)
+5. [Architechture diagram](#Architechture-diagram)
 6. [Application - End user funcationality]
 7. [Application flow]
 8. [Infra setup] 
