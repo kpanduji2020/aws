@@ -55,8 +55,8 @@ It will take time but it will be versioned document.
 
 # Application Name
 
-[Architecture diagram]
-# Architechture Diagram
+## Architecture diagram
+
 
   ![Okta](Okta-1.jpg)
 
