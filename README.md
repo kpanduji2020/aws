@@ -28,7 +28,7 @@ It will take time but it will be versioned document.
     + [Sub-sub-heading](#sub-sub-heading-2)
 
 # Table of Contents
-1. [Example](#Arch)
+1. [Arch](#Arch)
 2. [Example2](#example2)
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
@@ -105,44 +105,3 @@ In this blog post, you learned how to use AWS IAM Identity Center with the two m
 
 
 
-# Heading levels
-
-> This is a fixture to test heading levels
-
-<!-- toc -->
-
-## Heading
-
-This is an h1 heading
-
-### Sub-heading
-
-This is an h2 heading
-
-#### Sub-sub-heading
-
-This is an h3 heading
-
-## Heading
-
-This is an h1 heading
-
-### Sub-heading
-
-This is an h2 heading
-
-#### Sub-sub-heading
-
-This is an h3 heading
-
-## Heading
-
-This is an h1 heading
-
-### Sub-heading
-
-This is an h2 heading
-
-#### Sub-sub-heading
-
-This is an h3 heading
