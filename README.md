@@ -7,4 +7,4 @@ I am working on the project 'How to document our Processes and imporant informat
 
 It will take time but it will be versioned document.
 
-  ![Tux, the Linux mascot](aws/Product-Documentation.png)
+  ![Tux, the Linux mascot](Product-Documentation.png)
