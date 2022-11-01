@@ -7,7 +7,7 @@ I am working on the project 'How to document our Processes and imporant informat
 
 It will take time but it will be versioned document.
 
-- [Architecture diagram](#heading)
+- [Architecture](#heading)
   * [abc](#sub-heading)
     + [Sub-sub-heading](#sub-sub-heading)
 - [Heading](#heading-1)
@@ -24,7 +24,7 @@ It will take time but it will be versioned document.
 <!-- toc -->
 
 
-## Architecture diagram
+## Architecture
 
   ![Mindmap](Product-Documentation.png)
 
