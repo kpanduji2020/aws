@@ -7,7 +7,7 @@ I am working on the project 'How to document our Processes and imporant informat
 
 It will take time but it will be versioned document.
 
-- [Heading](#heading)
+- [Architecture diagram](#Architecture diagram)
   * [Sub-heading](#sub-heading)
     + [Sub-sub-heading](#sub-sub-heading)
 - [Heading](#heading-1)
