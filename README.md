@@ -28,34 +28,35 @@ It will take time but it will be versioned document.
     + [Sub-sub-heading](#sub-sub-heading-2)
 
 # Table of Contents
-1. [Arch](#Arch)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
-5. [Architechture diagram](#Architechture-diagram)
-6. [Application - End user funcationality]
-7. [Application flow]
-8. [Infra setup] 
-		  *[Test]
-		  *[US Production]
-		  *[EU Production]
-	9. Deployment process
-	Backup 
-		frequency
-		location
-	Logs 
-		error log
-		log 2
-	Monitoring
-		Nagios
-		Site 24 X7
-		Graylog
-	Recent Production outage
-	Important Config
-		Config for Graylog
-		Subtopic 2
-		Subtopic 3
-	Dependency on other application
+1. [Architecture](#Architecture)
+   1. US Production
+   2. EU Production
+   3. Test
+2. [Application - End user funcationality](#application-end-user-funcationality)
+3. [Application flow](#application-flow)
+4. [Infrasture setup](#infrasture-setup)
+      1. [US Producation](#us-production)
+      2. [EU Production](#eu-production)
+5. [Deployment process]
+   1. [US Production]
+   2. [EU Production]
+   3. [Test]
+6. [Backup] 
+		[frequency]
+		[location]
+7. [Logs] 
+   1. [error logs]
+   2. [access logs]
+8. [Monitoring]
+   1. [Nagios]
+   2. [Site 24 X7]
+   3. [Graylog]
+9. [Recent Production outage]
+   1.  [Important Configs]
+   2.  Config for Graylog
+   3.  Subtopic 2
+   4.  Subtopic 3
+11.	Dependency on other application
 
 
 ## Arch
@@ -81,51 +82,3 @@ It will take time but it will be versioned document.
 
 # Conclusion
 In this blog post, you learned how to use AWS IAM Identity Center with the two methods of passing attributes to AWS account using session tags for ABAC. You also learned how to build policies with tags as conditions to simplify and reuse custom permission sets. You have seen working examples with services like EC2, and Systems Manager Session Manager. To learn more about ABAC policies, SAML session tags, and how to pass session tags in federation, see IAM tutorial: Use SAML session tags for ABAC and Passing session tags using AssumeRoleWithSAML.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
