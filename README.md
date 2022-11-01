@@ -29,14 +29,12 @@ It will take time but it will be versioned document.
 
 # Table of Contents
 1. [Architecture](#Architecture)
-   1. US Production
-   2. EU Production
-   3. Test
+  
 2. [Application - End user funcationality](#application-end-user-funcationality)
 3. [Application flow](#application-flow)
 4. [Infrasture setup](#infrasture-setup)
-      1. [US Producation](#us-production)
-      2. [EU Production](#eu-production)
+      1. [US Production](#us-prod-infra)
+      2. [EU Production](#eu-prod-infra)
 5. [Deployment process](#deployment-process)
    1. [US Production](#us-deployment-process)
    2. [EU Production](#eu-deployment-process)
@@ -58,11 +56,6 @@ It will take time but it will be versioned document.
 11.	[Dependency on other application](#application-name-dependency)
 12. [Dummy](#dummy)
 
-
-## Arch
-## Example2
-## Third Example
-## [Fourth Example](http://www.fourthexample.com) 
 
 
 
