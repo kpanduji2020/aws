@@ -8,7 +8,7 @@ I am working on the project 'How to document our Processes and imporant informat
 It will take time but it will be versioned document.
 
 - [Architecture diagram](#Architecture diagram)
-  * [Sub-heading](#sub-heading)
+  * [abc](#sub-heading)
     + [Sub-sub-heading](#sub-sub-heading)
 - [Heading](#heading-1)
   * [Sub-heading](#sub-heading-1)
@@ -18,36 +18,6 @@ It will take time but it will be versioned document.
     + [Sub-sub-heading](#sub-sub-heading-2)
 
 ## 
-
--[Arch Diagram](#Arch Diagram)
--[Application - End user funcationality](#Application - End user funcationality)
--[Application flow](#Application flow)
--[Infra setup on ](#Infra setup on )
-*(#Test)
-*(#US Production)
-*(#EU Production)
--[Deployment process](#Deployment process)
-*(#US Production)
-*(#)
-*(#EU Production)
-*(#)
--[Backup ](#Backup )
-*(#frequency)
-*(#location)
--[Logs ](#Logs )
-*(#error log)
-*(#log 2)
--[Monitoring](#Monitoring)
-*(#Nagios)
-*(#Site 24 X7)
-*(#Graylog)
--[Recent Production outage](#Recent Production outage)
--[Important Config](#Important Config)
-*(#Config for Graylog)
-*(#Subtopic 2)
-*(#Subtopic 3)
--[Dependency on other application](#Dependency on other application)
-![image](https://user-images.githubusercontent.com/90484099/199155891-e50e1b5c-86d1-4942-a94a-9566f630760b.png)
 
 
   ![Mindmap](Product-Documentation.png)
