@@ -69,7 +69,7 @@ It will take time but it will be versioned document.
 
 #Architecture
 
-  ![Mindmap](Product-Documentation.png)
+  ![Architecture](Product-Documentation.png)
 
 
 # Application Name
