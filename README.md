@@ -24,7 +24,7 @@ It will take time but it will be versioned document.
 <!-- toc -->
 
 
-## Architecture
+#Architecture
 
   ![Mindmap](Product-Documentation.png)
 
