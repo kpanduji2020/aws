@@ -7,6 +7,31 @@ I am working on the project 'How to document our Processes and imporant informat
 
 It will take time but it will be versioned document.
 
+Arch Diagram
+	Application - End user funcationality
+	Application flow
+	Infra setup on 
+		Test
+		US Production
+		EU Production
+	Deployment process
+	Backup 
+		frequency
+		location
+	Logs 
+		error log
+		log 2
+	Monitoring
+		Nagios
+		Site 24 X7
+		Graylog
+	Recent Production outage
+	Important Config
+		Config for Graylog
+		Subtopic 2
+		Subtopic 3
+	Dependency on other application
+
   ![Mindmap](Product-Documentation.png)
 
 
