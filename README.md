@@ -7,7 +7,7 @@ I am working on the project 'How to document our Processes and imporant informat
 
 It will take time but it will be versioned document.
 
-Arch Diagram
+        Arch Diagram
 	Application - End user funcationality
 	Application flow
 	Infra setup on 
