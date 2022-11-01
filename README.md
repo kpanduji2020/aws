@@ -28,13 +28,13 @@ It will take time but it will be versioned document.
     + [Sub-sub-heading](#sub-sub-heading-2)
 
 # Table of Contents
-1. [Example](#example)
+1. [Example](#Arch)
 2. [Example2](#example2)
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
 
-## Example
+## Arch
 ## Example2
 ## Third Example
 ## [Fourth Example](http://www.fourthexample.com) 
