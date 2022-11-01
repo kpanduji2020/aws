@@ -31,7 +31,7 @@ It will take time but it will be versioned document.
 
 # Application Name
 
-## Architecture diagram
+
 
 
   ![Okta](Okta-1.jpg)
