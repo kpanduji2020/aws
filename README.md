@@ -37,26 +37,26 @@ It will take time but it will be versioned document.
 4. [Infrasture setup](#infrasture-setup)
       1. [US Producation](#us-production)
       2. [EU Production](#eu-production)
-5. [Deployment process]
-   1. [US Production]
-   2. [EU Production]
-   3. [Test]
-6. [Backup] 
-		[frequency]
-		[location]
+5. [Deployment process](#deployment-process)
+   1. [US Production](#us-deployment-process)
+   2. [EU Production](#eu-deployment-process)
+   3. [Test](#test-deployment-process)
+6. [Backup] (#backup)
+		[frequency](#frequency)
+		[location](#location)
 7. [Logs] 
-   1. [error logs]
-   2. [access logs]
+   1. [error logs](#log-location1)
+   2. [access logs](#log-location2)
 8. [Monitoring]
-   1. [Nagios]
-   2. [Site 24 X7]
-   3. [Graylog]
-9. [Recent Production outage]
-   1.  [Important Configs]
-   2.  Config for Graylog
-   3.  Subtopic 2
-   4.  Subtopic 3
-11.	Dependency on other application
+   1. [Nagios](#nagios-alerts)
+   2. [Site 24 X7](#sythetic-monitor-link)
+   3. [Graylog](#graylog-configured)
+9. [Recent Production outage](#application-name-recent-outages)
+   1.  [Important Configs](#application-name-configs)
+   2.  [Subtopic 2]
+   3.  [Subtopic 3]
+11.	[Dependency on other application](#application-name-dependency)
+12. [Dummy](#dummy)
 
 
 ## Arch
