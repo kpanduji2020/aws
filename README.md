@@ -17,6 +17,8 @@ It will take time but it will be versioned document.
   * [Sub-heading](#sub-heading-2)
     + [Sub-sub-heading](#sub-sub-heading-2)
 
+## 
+
 -[Arch Diagram](#Arch Diagram)
 -[Application - End user funcationality](#Application - End user funcationality)
 -[Application flow](#Application flow)
@@ -52,6 +54,8 @@ It will take time but it will be versioned document.
 
 
 # Application Name
+
+[Architecture diagram]
 # Architechture Diagram
 
   ![Okta](Okta-1.jpg)
